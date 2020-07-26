@@ -45,4 +45,4 @@ Edit your username
 
 Display on other devices
 
-<img src="assets/phone.png" alt="phone" height="150px">
+<img src="assets/phone.png" alt="phone" height="150">
