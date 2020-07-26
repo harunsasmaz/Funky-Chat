@@ -32,3 +32,17 @@ $ cd client
 $ npm install
 $ npm start
 ```
+
+## Screenshots
+
+Chat screen
+
+![first](assets/first.png)
+
+Edit your username
+
+![edit](assets/edit.png)
+
+Display on other devices
+
+![phone](assets/phone.png)
